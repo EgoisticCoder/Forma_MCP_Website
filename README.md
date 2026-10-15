@@ -1,5 +1,7 @@
 # FORMA MCP website
 
+**Repository description:** Browser automation and UI inspection tools for MCP-compatible editors and AI clients, with user-approved access.
+
 The standalone product landing page for [FORMA MCP](https://github.com/EgoisticCoder/Forma_MCP), a Playwright browser and UI/UX inspection toolkit for MCP-compatible IDEs and agents.
 
 ## Run locally
